@@ -1,0 +1,97 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Nivedita Prasad
+theme: "PaperMod"
+paginate: 5
+
+enableRobotsTXT: true
+enableEmoji: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+minify:
+  disableXML: true
+  minifyOutput: true
+params:
+  env: production
+  title: Nivedita Prasad
+  description: "Personal website for Nivedita Prasad where I share content based on my experiences."
+  images: ['profile-pic.jpg']
+
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  GoogleAnalyticsID: G-V0ZH6RS2BM
+  disableSpecial1stPost: false
+  comments: false
+  hidemeta: false
+  showtoc: false
+  tocopen: false
+  assets:
+    favicon: favicon/favicon.ico
+    favicon16x16: favicon/favicon-16x16.png
+    favicon32x32: favicon/favicon-32x32.png
+    apple_touch_icon: favicon/apple-touch-icon.png
+    android-chrome: favicon/android-chrome-512x512.png
+    disableHLJS: true
+  label:
+    text: Nivedita Prasad
+    
+  homeInfoParams:
+    Title: "Hi there! \U0001F44B"
+    Content: |
+      - Welcome to my website!
+  socialIcons:
+  - name: twitter
+    url: https://twitter.com/NiveditaPrasa15
+  - name: github
+    url: https://github.com/Nivedita-coder
+  - name: linkedin
+    url: https://www.linkedin.com/in/nivedita-prasad-706719194/
+  - name: email
+    url: mailto:niveditaprasad81@gmail.com
+  - name: dev
+    url: https://dev.to/niveditacoder
+  - name: buymeacoffee
+    url: https://www.buymeacoffee.com/niveditaprasad
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: false
+    linkFullImages: true
+menu:
+  main:
+  - name: About
+    identifier: about
+    url: about/
+    weight: 1
+  - name: Blog
+    identifier: blog
+    url: blog/
+    weight: 2
+  # - name: Collaborate
+  #   identifier: collaborate
+  #   url: collaborations/
+  #   weight: 5
+  # - name: Newsletter
+  #   identifier: newsletter
+  #   url: https://jarmos.ck.page/newsletter
+  #   weight: 6
+markup:
+  highlight:
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # noClasses: false
+    # style: "borland"
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    lineNos: true
+    lineNumbersInTable: true
+    noClasses: true
+    style: native
