@@ -54,8 +54,8 @@ params:
     url: mailto:niveditaprasad81@gmail.com
   - name: dev
     url: https://dev.to/niveditacoder
-  - name: buymeacoffee
-    url: https://www.buymeacoffee.com/niveditaprasad
+  # - name: buymeacoffee
+  #   url: https://www.buymeacoffee.com/niveditaprasad
 
   cover:
     hidden: true
@@ -72,10 +72,10 @@ menu:
     identifier: blog
     url: blog/
     weight: 2
-  # - name: Collaborate
-  #   identifier: collaborate
-  #   url: collaborations/
-  #   weight: 5
+  - name: Books
+    identifier: Books
+    url: books/
+    weight: 5
   # - name: Newsletter
   #   identifier: newsletter
   #   url: https://jarmos.ck.page/newsletter
