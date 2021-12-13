@@ -64,7 +64,7 @@ params:
     linkFullImages: true
 menu:
   main:
-  - name: About Me
+  - name: About
     identifier: about
     url: about/
     weight: 1
