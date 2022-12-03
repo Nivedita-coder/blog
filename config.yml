@@ -72,10 +72,10 @@ menu:
     identifier: blog
     url: blog/
     weight: 2
-  - name: Books
-    identifier: Books
-    url: books/
-    weight: 5
+  # - name: Books
+  #   identifier: Books
+  #   url: books/
+  #   weight: 5
   # - name: Newsletter
   #   identifier: newsletter
   #   url: https://jarmos.ck.page/newsletter
