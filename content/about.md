@@ -12,7 +12,7 @@ Hi there! :wave: I'm Nivedita.
 
 An Open-Source enthusiast and final year student from India pursuing Bachelors in Computer Science and Engineering.
 
-I'm the part of [Kubernetes Release team since](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md) v1.24 .
+I'm the part of [Kubernetes Release team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md) since v1.24 .
 
 Previously, I've done internship at:
 
