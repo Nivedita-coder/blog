@@ -12,11 +12,11 @@ Hi there! :wave: I'm Nivedita.
 
 An Open-Source enthusiast and final year student from India pursuing Bachelors in Computer Science and Engineering.
 
-I'm the part of [Kubernetes Release team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md) since v1.24 .
+I'm part of the [Kubernetes Release team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md) since v1.24 .
 
-Previously, I've done internship at:
+Previously, I've done internships at:
 
-- [CERN](https://openlab.web.cern.ch/news/23-sep-2022/cern-openlab-trains-next-generation-computing-experts) as a [Openlab summer student](https://cds.cern.ch/record/2827619)
+- [CERN](https://openlab.web.cern.ch/news/23-sep-2022/cern-openlab-trains-next-generation-computing-experts) as an [Openlab summer student](https://cds.cern.ch/record/2827619)
 - [Digital Product School by UnternehmerTUM](https://www.linkedin.com/company/digital-product-school/)
 - [Odyssey Cloud](https://www.linkedin.com/company/odyssey-cloud/about/) 
 - [Linux Foundation Mentee](https://mentorship.lfx.linuxfoundation.org/project/35b9d57a-fc2c-4b49-a5b3-9a5cf74af66c) at [CNCF-OpenEBS](https://github.com/openebs).
