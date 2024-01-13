@@ -8,21 +8,13 @@ summary:
   might want to know about her.
 ---
 
-Hi there! :wave: I'm Nivedita.
+Hey there! 👋 I'm Nivedita.
 
-An Open-Source enthusiast and final year student from India pursuing Bachelors in Computer Science and Engineering.
+I'm a developer who loves exploring complex systems and is passionate about Cloud-Native technologies. I'm always learning, especially through hands-on experience with Open-Source software. 
 
-I'm part of the [Kubernetes Release team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md) since v1.24 .
+Connecting with collaborative communities is a big part of my learning journey, where I both contribute and gain insights. 
 
-Previously, I've done internships at:
-
-- [CERN](https://openlab.web.cern.ch/news/23-sep-2022/cern-openlab-trains-next-generation-computing-experts) as an [Openlab summer student](https://cds.cern.ch/record/2827619)
-- [Digital Product School by UnternehmerTUM](https://www.linkedin.com/company/digital-product-school/)
-- [Odyssey Cloud](https://www.linkedin.com/company/odyssey-cloud/about/) 
-- [Linux Foundation Mentee](https://mentorship.lfx.linuxfoundation.org/project/35b9d57a-fc2c-4b49-a5b3-9a5cf74af66c) at [CNCF-OpenEBS](https://github.com/openebs).
-
-I like to explore distributed systems, algorithms and open source. I love learning by working on Open-Source software and getting involved with the awesome communities around it.
-
+I enjoy tackling challenges in the ever-changing tech world and am excited to keep growing in this dynamic domain! 🚀
 
 The best ways to get in touch with me are:
 
