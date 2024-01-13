@@ -8,9 +8,7 @@ summary:
   might want to know about her.
 ---
 
-Hey there! 👋 I'm Nivedita.
-
-I'm a developer who loves exploring complex systems and is passionate about Cloud-Native technologies. I'm always learning, especially through hands-on experience with Open-Source software. 
+Hey there! 👋 I'm Nivedita who loves exploring complex systems and is passionate about Cloud-Native technologies. I'm always learning, especially through hands-on experience with Open-Source software. 
 
 Connecting with collaborative communities is a big part of my learning journey, where I both contribute and gain insights. 
 
