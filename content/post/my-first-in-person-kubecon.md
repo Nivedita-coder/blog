@@ -9,7 +9,7 @@ I've been around CNCF community since my sophomore year of University, but thank
 
 And let me tell you, when I stepped foot into that venue, my first thought was just, "Finally!" 😅
 
-![alt text](/static/img/kubecon/gate.png)
+![image](/static/img/kubecon/gate.png)
 
 So, like, KubeCon kicked off on March 19th, but that day was all about this CNCF-hosted Co-located event that wasn't part of my ticket. Bummer, right? But hey, no biggie! I ended up wandering around Paris instead. And let me tell you, Paris totally rocks! It's bursting with energy and vibes, you've gotta experience it! 🇫🇷✨
 
@@ -19,7 +19,7 @@ First day kicked off with the classic lineup for security, picking up my badge, 
 
 Let me tell you, the place was massive, but somehow I managed to make it to the keynote room just in time (okay, I was little late but, hey who's counting? 😉).
 
-![alt text](/static/img/kubecon/keynote.jpg)
+![image](/static/img/kubecon/keynote.jpg)
 
 And folks, let me spill the beans on the awesome Keynote from KubeCon Paris!
 
@@ -37,7 +37,7 @@ Plus, the CNCF kicked off this cool program called "Zero to Merge," which is awe
 
 Also there were award ceremony for exceptional end users in the ecosystem and guess who won this year? **CERN**! **Yay, go CERN!** 🎉
 
-![alt text](/static/img/kubecon/cern.jpg)
+![image](/static/img/kubecon/cern.jpg)
 
 Then it was coffee o'clock again!☕
 
