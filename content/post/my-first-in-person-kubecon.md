@@ -29,11 +29,11 @@ The theme for this year was around AI, and let me tell you, the buzz is real! Co
 
 I got super excited after catching the "Keynote: Welcome + Opening Remarks". But what really got me going was the next one - "Keynote: Accelerating AI workloads with GPUs in Kubernetes".
 
-I've been geeking out over GPUs for the past few months, so you can imagine my excitement! And let me tell you, it didn't disappoint!
+I've been geeking out over GPUs for the past few months, so you can imagine my excitement! And let me tell you, it totally lived up to the hype!
 
-Each keynote brought a whole bunch of new perspectives, cool innovations, and wild ideas, one after the other. I learned a ton of stuff!
+Each keynote brought a whole bunch of new perspectives, cool innovations, and wild ideas, one after the other. I learned a ton of stuff! ✨
 
-Plus, the CNCF kicked off this cool program called "Zero to Merge," which is awesome because it helps anyone learn how to contribute to CNCF projects. Great stuff for anyone diving into the open-source world!
+Plus, the CNCF kicked off this cool program called "Zero to Merge", which is awesome because it helps anyone learn how to contribute to CNCF projects. Great stuff for anyone diving into the open-source world!
 
 Also there were award ceremony for exceptional end users in the ecosystem and guess who won this year? **CERN**! **Yay, go CERN!** 🎉
 
@@ -53,5 +53,5 @@ Seriously though, those three days flew by in a blur of excitement. I can't beli
 
 Alrighty, folks! Time to wave goodbye for now! Looking forward to future KubeCon(s) and other CNCF conferences. ❤️
 
-À bientôt!👋
+À bientôt! 👋
 
