@@ -4,12 +4,14 @@ date: 2024-04-07T11:05:09+05:00
 slug: my-first-in-person-kubecon.
 category: ["cncf, kubecon, kubernetes, open-source"]
 summary: I've been around CNCF community since my sophomore year of University, but thanks to COVID,  I never got the chance to hit up a KubeCon in person. But hey, guess who made it this time? Yours truly, soaking up all the vibes at KubeCon 2024 in Paris!
+showtoc: true
+draft: false
 ---
 I've been around CNCF community since my sophomore year of University, but thanks to COVID,  I never got the chance to hit up a KubeCon in person. But hey, guess who made it this time? Yours truly, soaking up all the vibes at KubeCon 2024 in Paris! 
 
 And let me tell you, when I stepped foot into that venue, my first thought was just, "Finally!" 😅
 
-![image](/static/img/kubecon/gate.png)
+![image](./kubecon/gate.png)
 
 So, like, KubeCon kicked off on March 19th, but that day was all about this CNCF-hosted Co-located event that wasn't part of my ticket. Bummer, right? But hey, no biggie! I ended up wandering around Paris instead. And let me tell you, Paris totally rocks! It's bursting with energy and vibes, you've gotta experience it! 🇫🇷✨
 
@@ -19,7 +21,7 @@ First day kicked off with the classic lineup for security, picking up my badge, 
 
 Let me tell you, the place was massive, but somehow I managed to make it to the keynote room just in time (okay, I was little late but, hey who's counting? 😉).
 
-![image](/static/img/kubecon/keynote.jpg)
+![image](./kubecon/keynote.jpg)
 
 And folks, let me spill the beans on the awesome Keynote from KubeCon Paris!
 
@@ -37,7 +39,7 @@ Plus, the CNCF kicked off this cool program called "Zero to Merge," which is awe
 
 Also there were award ceremony for exceptional end users in the ecosystem and guess who won this year? **CERN**! **Yay, go CERN!** 🎉
 
-![image](/static/img/kubecon/cern.jpg)
+![image](./kubecon/cern.jpg)
 
 Then it was coffee o'clock again!☕
 
