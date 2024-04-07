@@ -5,7 +5,7 @@ slug: my-first-in-person-kubecon
 category: ["cncf, kubecon, kubernetes, open-source"]
 summary: I've been around CNCF community since my sophomore year of University, but thanks to COVID,  I never got the chance to hit up a KubeCon in person. But hey, guess who made it this time? Yours truly, soaking up all the vibes at KubeCon 2024 in Paris!
 cover:
-  image: "/img/kyverno/k8s.jpg"
+  image: "/img/kyverno/cover1.jpg"
 ---
 I've been around CNCF community since my sophomore year of University, but thanks to COVID,  I never got the chance to hit up a KubeCon in person. But hey, guess who made it this time? Yours truly, soaking up all the vibes at KubeCon 2024 in Paris! 
 
